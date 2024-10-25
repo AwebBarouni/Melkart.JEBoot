@@ -140,8 +140,9 @@ filter: brightness(0) invert(1);
     align-items: center;
     justify-content: center;
     background-color:#2a4467 ;
-    height: 200px;
+    height: 600px;
     opacity: 0.9;
+    
 }
 #contenaire4{
     background-color: #17273b;
@@ -150,6 +151,7 @@ filter: brightness(0) invert(1);
     align-items: center;
     justify-content:center;
     gap: 25%;
+    height: 600 px;
 }
 #cc1 img{
     height: 30px;
