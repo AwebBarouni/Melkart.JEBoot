@@ -1,0 +1,236 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-image: url(1st/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#a1 img {
+height: 80px;
+filter: brightness(0) invert(1);
+} 
+#a2 img {
+    height: 80px;
+    filter: brightness(0) invert(1);
+    } 
+    #a3 img {
+        height: 80px;
+        filter: brightness(0) invert(1);
+        } 
+        #a4 img {
+            height: 80px;
+            filter: brightness(0) invert(1);
+            } #a5 img {
+                height: 80px;
+                filter: brightness(0) invert(1);
+                } 
+#container1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:#2a4467 ;
+    opacity: 0.9;
+}
+#img1{display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+#noo1 {
+    color: white   ;
+    
+}
+#a1{
+    padding: 10px;
+}
+#a2{
+    padding: 10px;
+}
+#a3{
+    padding: 10px;
+}
+#a4{
+    padding: 10px;
+}
+#a5{
+    padding: 10px;
+}
+#b1{
+    display: flex;
+    align-items: center ;
+    justify-self: center;
+    padding: auto;
+    color: white;
+    flex-direction: row;
+}
+#b2{
+    display: flex;
+    align-items: center ;
+    justify-self: center;
+    padding: auto;
+    color: white;
+    flex-direction: row;
+}
+#container2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:#ffffff ;
+}
+#noo2{
+    color:  #17273b;
+}
+#aa1 img{
+    height: 80px;
+}
+#aa2 img{
+    height: 80px;
+}
+#aa3 img{
+    height: 80px;
+}
+#aa4 img{
+    height: 80px;
+}
+#xyz {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color:#ffffff ;
+}
+#aa1{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+#aa2{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#aa3{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#aa4{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#noo3{
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    justify-content: top;
+    color: #fff;
+}
+#contenaire3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:#2a4467 ;
+    height: 200px;
+    opacity: 0.9;
+}
+#contenaire4{
+    background-color: #17273b;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center;
+    gap: 25%;
+}
+#cc1 img{
+    height: 30px;
+    filter: brightness(0) invert(1);
+}
+#cc2 img{
+    height: 30px;
+    filter: brightness(0) invert(1);
+}
+#cc3 img{
+    height: 30px;
+    filter: brightness(0) invert(1);
+}
+#cc4 img{
+    height: 300px;
+    filter: brightness(0) invert(1);
+}
+#cc1{
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+#cc2{
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+#cc3{
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+#YES{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#dd1 img{
+    height: 30px;
+    filter: brightness(0) invert(1);
+}
+#dd3  img{
+    height: 30px;
+    filter: brightness(0) invert(1);
+}#dd2 img{
+    height: 30px;
+    filter: brightness(0) invert(1);
+}
+#eee{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10%;
+}
+#yyy {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1%;
+}
+#ttt{
+    background-color: #17273b;
+
+}
+#yyy img{
+    height: 20px;
+    filter: brightness(0) invert(1);
+}
+#rrr{
+    color: #fff;
+}
+.circle{
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+}
